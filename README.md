@@ -27,11 +27,11 @@ Go to Settings - Keymap and find an Action by name or shortcut.
 You can also use "command shift a" and try to guess the Action name.
 
 ### TO DO
-move caret many actions
-expand selection
-multiple carets at end of line
-move between tabs in a group!
-hide show Project window: command 1 -- check other usefull windows
+- move caret many actions
+- expand selection
+- multiple carets at end of line
+- move between tabs in a group!
+- hide show Project window: command 1 -- check other usefull windows
 
 Useful:
 File and Code Templates: new method body
